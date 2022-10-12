@@ -1,2 +1,2 @@
-#!/bin
-echo "/etc/passwd"
+#!/bin/bash
+ echo "/etc/passwd"
